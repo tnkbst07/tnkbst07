@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tek Bahadur Bista
 - 👀 I’m interested in AI and ML
-- 🌱 I’m currently learning python and R programming language for personal skill development.
-- 💞️ I’m looking to collaborate on all possible projects where I can upgrade my knowledge and skills.
+- 🌱 I’m about to finish my Master's, working on python and R projects to upgrade my existing skills.
+- 💞️ I’m looking for Internship/Work-Student/Part-time jobs.
 - 📫 Bista.tnk27@gmail.com
 
 <!---
