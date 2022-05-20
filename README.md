@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tek Bahadur Bista
-- 👀 I’m interested in AI and ML
-- 🌱 I’m about to finish my Master's, working on python and R projects to upgrade my existing skills.
+- 👀 I’m interested AI/ML and, Data Science domain.
+- 🌱 I’m about to finish my Master's, working on python and R projects to expand my knowledge and skills.
 - 💞️ I’m looking for Internship/Work-Student/Part-time jobs.
 - 📫 Bista.tnk27@gmail.com
 
